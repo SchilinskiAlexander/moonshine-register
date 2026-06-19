@@ -1,7 +1,6 @@
 {
     "name": "schilinskialexander/moonshine-register",
     "description": "Registration page for MoonShine v4 authentication.",
-    "version": "1.0.0",
     "keywords": [
         "laravel",
         "moonshine",
